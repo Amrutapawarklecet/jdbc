@@ -1,0 +1,10 @@
+Create table
+Create Bean class
+Create DBUtil
+Create Dao Layer
+	Create interface 
+	Create implementation class
+Create Service Layer
+	Create interface 
+	Create implementation class
+	call DaoImpl methods from every service method
